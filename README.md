@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Solutions to a few hackerrank practice problems.
+Solutions to a few [HackerRank](https://www.hackerrank.com) practice problems.
 
 ### Difficulty: Medium
 **Link to Problems:**
